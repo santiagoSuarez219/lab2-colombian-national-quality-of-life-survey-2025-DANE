@@ -1,0 +1,250 @@
+modulo,codigo_variable,descripcion,tipo_dato
+D - Características y composición del hogar,DIRECTORIO,DIRECTORIO,NUMBER
+D - Características y composición del hogar,SECUENCIA_ENCUESTA,Número de la persona dentro del hogar,NUMBER
+D - Características y composición del hogar,SECUENCIA_P,Número del Hogar dentro de la vivienda,NUMBER
+D - Características y composición del hogar,ORDEN,Número de la persona dentro del hogar,NUMBER
+D - Características y composición del hogar,FEX_C,Factor de expansión,NUMBER
+D - Características y composición del hogar,P6016,Número de orden de la persona que proporciona la información:,NUMBER
+D - Características y composición del hogar,P1894,1. Tipo de documento de identidad,NUMBER
+D - Características y composición del hogar,P6020,2. Sexo al nacer:,NUMBER
+D - Características y composición del hogar,P6034,3. ¿Cuál es la fecha de nacimiento de ...?,NUMBER
+D - Características y composición del hogar,P6040,4. ¿Cuántos años cumplidos tiene ...?,NUMBER
+D - Características y composición del hogar,P6051,5. ¿Cuál es el parentesco de ... con el jefe o la jefa de este hogar?,NUMBER
+D - Características y composición del hogar,P5502,6. Actualmente ...:,NUMBER
+D - Características y composición del hogar,P6071,7. El (la) cónyuge de ... ¿Vive en este hogar?,NUMBER
+D - Características y composición del hogar,P6071S1,No. de orden,NUMBER
+D - Características y composición del hogar,P756,8. ¿Dónde nació ________?,NUMBER
+D - Características y composición del hogar,P756S1,Departamento,NUMBER
+D - Características y composición del hogar,P756S2,Municipio,NUMBER
+D - Características y composición del hogar,P756S3,En otro país,NUMBER
+D - Características y composición del hogar,P3510,8A. ¿Qué nacionalidad tiene?,NUMBER
+D - Características y composición del hogar,P3510S1,País o países de nacionalidad (además de colombiana),NUMBER
+D - Características y composición del hogar,P3510S1A1,1. Estadounidense,NUMBER
+D - Características y composición del hogar,P3510S1A2,2. Española,NUMBER
+D - Características y composición del hogar,P3510S1A3,3. Venezolana,NUMBER
+D - Características y composición del hogar,P3510S1A4,4. Ecuatoriana,NUMBER
+D - Características y composición del hogar,P3510S1A5,5. Panameña,NUMBER
+D - Características y composición del hogar,P3510S1A6,6. Peruana,NUMBER
+D - Características y composición del hogar,P3510S1A7,7. Costarricense,NUMBER
+D - Características y composición del hogar,P3510S1A8,8. Argentina,NUMBER
+D - Características y composición del hogar,P3510S1A9,9. Francesa,NUMBER
+D - Características y composición del hogar,P3510S1A10,10. Italiana,NUMBER
+D - Características y composición del hogar,P3510S1A11,11. Otra,NUMBER
+D - Características y composición del hogar,P3510S2,País o países de nacionalidad (sin colombiana),NUMBER
+D - Características y composición del hogar,P3510S2A1,1. Estados Unidos,NUMBER
+D - Características y composición del hogar,P3510S2A2,2. España,NUMBER
+D - Características y composición del hogar,P3510S2A3,3. Venezuela,NUMBER
+D - Características y composición del hogar,P3510S2A4,4. Ecuador,NUMBER
+D - Características y composición del hogar,P3510S2A5,5. Panamá,NUMBER
+D - Características y composición del hogar,P3510S2A6,6. Perú,NUMBER
+D - Características y composición del hogar,P3510S2A7,7. Costa Rica,NUMBER
+D - Características y composición del hogar,P3510S2A8,8. Argentina,NUMBER
+D - Características y composición del hogar,P3510S2A9,9. Francia,NUMBER
+D - Características y composición del hogar,P3510S2A10,10. Italia,NUMBER
+D - Características y composición del hogar,P3510S2A11,11. Otro país,NUMBER
+D - Características y composición del hogar,P6074,9. ¿... siempre ha vivido aquí en este municipio?,NUMBER
+D - Características y composición del hogar,P755,"10. ¿Dónde vivía ..., hace 5 años?",NUMBER
+D - Características y composición del hogar,P755S1,Departamento,VARCHAR2
+D - Características y composición del hogar,P755S2,Municipio,VARCHAR2
+D - Características y composición del hogar,P755S3,En otro país,VARCHAR2
+D - Características y composición del hogar,P754,11. El lugar donde vivía ... hace 5 años era:,NUMBER
+D - Características y composición del hogar,P753,"12. ¿Dónde vivía ..., hace 12 meses?",NUMBER
+D - Características y composición del hogar,P753S1,Departamento,VARCHAR2
+D - Características y composición del hogar,P753S2,Municipio,VARCHAR2
+D - Características y composición del hogar,P753S3,En otro país,VARCHAR2
+D - Características y composición del hogar,P752,12A. El lugar donde vivía ... hace 12 meses era:,NUMBER
+D - Características y composición del hogar,P1662,13. ¿Cuál fue el principal motivo por el que ... Cambió el lugar donde residia hace 12 meses?,NUMBER
+D - Características y composición del hogar,P6081,14. El padre de ... ¿vive en este hogar?,NUMBER
+D - Características y composición del hogar,P6081S1,No. de orden,NUMBER
+D - Características y composición del hogar,P6087,15. ¿Cuál es o fue el nivel de educación más alto alcanzado por el padre de ...?,NUMBER
+D - Características y composición del hogar,P6083,16. La madre de ... ¿vive en este hogar?,NUMBER
+D - Características y composición del hogar,P6083S1,No. de orden,NUMBER
+D - Características y composición del hogar,P6088,17. ¿Cuál es o fue el nivel de educación más alto alcanzado por la madre de ...?,NUMBER
+D - Características y composición del hogar,P6080,"18. De acuerdo con su cultura, pueblo o rasgos físicos, ... es o se reconoce comó:",NUMBER
+D - Características y composición del hogar,P2057,20. ¿Usted se considera campesino/a?,NUMBER
+D - Características y composición del hogar,P2059,21. ¿Usted considera que alguna vez fue campesino/a?,NUMBER
+D - Características y composición del hogar,P2061,22. ¿Usted considera que la comunidad en que vive es campesina?,NUMBER
+D - Características y composición del hogar,P1895,"23. En general, ¿qué tan satisfecho/a se siente ... con su vida actualmente?",NUMBER
+D - Características y composición del hogar,P1896,"24. En general, ¿qué tan satisfecho/a se siente ... con su ingreso actualmente?",NUMBER
+D - Características y composición del hogar,P1897,"25. En general, ¿qué tan satisfecho/a se siente ... con su salud actualmente?",NUMBER
+D - Características y composición del hogar,P1898,"26. En general, ¿qué tan satisfecho/a se siente ... con su nivel de seguridad actualmente?",NUMBER
+D - Características y composición del hogar,P1899,"27. En general, ¿qué tan satisfecho/a se siente ... con su trabajo/actividad actualmente?",NUMBER
+D - Características y composición del hogar,P3175,"28. En general, ¿qué tan satisfecho/a se siente _____ con su tiempo libre?",NUMBER
+D - Características y composición del hogar,P1901,29. ¿Qué tan feliz se sintió ... el día de ayer?,NUMBER
+D - Características y composición del hogar,P1903,30. ¿Qué tan preocupado/a se sintió ... el día de ayer?,NUMBER
+D - Características y composición del hogar,P1904,31. ¿Qué tan triste se sintió ... el día de ayer?,NUMBER
+D - Características y composición del hogar,P1905,32. ¿Qué tanto considera ... que las cosas que hace en su vida valen la pena?,NUMBER
+D - Características y composición del hogar,P1927,33. ¿En cuál escalón diría usted que se encuentra parado/a en este momento?,NUMBER
+D - Características y composición del hogar,P3038,34. ¿Usted siente atracción sexual o romántica por?,NUMBER
+D - Características y composición del hogar,P3039,35. ¿Usted se reconoce como?,NUMBER
+G - Educación,DIRECTORIO,DIRECTORIO,NUMBER
+G - Educación,SECUENCIA_ENCUESTA,Número de persona dentro del hogar,NUMBER
+G - Educación,SECUENCIA_P,Número de hogar dentro de la vivienda,NUMBER
+G - Educación,ORDEN,Número de persona dentro del hogar,NUMBER
+G - Educación,FEX_C,Factor de expansión,NUMBER
+G - Educación,P6160,1. ¿Sabe leer y escribir?,NUMBER
+G - Educación,P8586,"2. ¿... actualmente estudia? (asiste al preescolar, escuela, colegio o universidad)",NUMBER
+G - Educación,P6218,3. ¿Cuál es la razón principal para que ... no estudie?,NUMBER
+G - Educación,P8587,4. ¿Cuál es el nivel educativo más alto alcanzado por ... y el último año o grado aprobado en ese nivel?,NUMBER
+G - Educación,P8587S1,Grado o año aprobado,NUMBER
+G - Educación,P6211,"5. ¿Cuántos años de estudios superiores (técnicos, tecnológicos, universitarios, de posgrado, etc.) ha realizado y aprobado?",NUMBER
+G - Educación,P1088,6. ¿En que nivel está matriculado/a ... y qué grado o año cursa?,NUMBER
+G - Educación,P1088S1,Grado o año que cursa,NUMBER
+G - Educación,P6216,"7. ¿Cuántos años de estudios superiores (técnicos, tecnológicos, universitarios, de postgrado, etc.) ha realizado y aprobado?",NUMBER
+G - Educación,P5673,8. El establecimiento donde estudia ... es:,NUMBER
+G - Educación,P5674,Subsidiado?,NUMBER
+G - Educación,P1101,9. ¿En qué jornada estudia ...?,NUMBER
+G - Educación,P3336,10. ¿En qué modalidad(es) o a través de qué medio(s) se encuentra estudiando ... actualmente?,NUMBER
+G - Educación,P3336S1,1. Presencial,NUMBER
+G - Educación,P3336S2,"2. Virtual (a través de internet en computador de escritorio, portátil, tableta o celular)",NUMBER
+G - Educación,P3336S3,3. Alternancia entre presencial y virtual,NUMBER
+G - Educación,P3336S7,4. Otro,NUMBER
+G - Educación,P3514,11. El establecimiento educativo se localiza en:,NUMBER
+G - Educación,P3514S1,Departamento,NUMBER
+G - Educación,P3514S2,Municipio,NUMBER
+G - Educación,P6223,11A. Este establecimiento está ubicado en:,NUMBER
+G - Educación,P4693,12. ¿Qué medio de transporte utiliza principalmente ... para ir a la institución a la que asiste?,NUMBER
+G - Educación,P6167,13. ¿Cuántos minutos gasta para ir a la institución a la que asiste?,NUMBER
+G - Educación,P6180,"14. ¿Recibe ... en el plantel educativo alimentos (desayunos, refrigerios, almuerzos) en forma gratuita o por un pago simbólico?",NUMBER
+G - Educación,P6180S1,a. ¿Valor que paga DIARIO?,NUMBER
+G - Educación,P6180S2,"b. Si lo tuviera que comprar en otra parte, ¿cuánto pagaría al día por lo que recibe?",NUMBER
+G - Educación,P3337,15. ¿... tuvo comunicación con sus maestros la semana pasada?,NUMBER
+G - Educación,P3339,16. ¿Cuál(es) medio(s) utiliza ... para comunicarse con sus maestros?,NUMBER
+G - Educación,P3339S1,1. Mensaje de texto,NUMBER
+G - Educación,P3339S2,2. Correo electrónico,NUMBER
+G - Educación,P3339S3,3. Teléfono (llamadas de voz),NUMBER
+G - Educación,P3339S4,"4. Aplicaciones en línea (videoconferencias en Zoom, Microsoft Teams, Skype, Google Meet, WebEx, Classroom, Integra, Google for Education, Aprender Digital contenido para todos)",NUMBER
+G - Educación,P3339S5,5. Whatsapp,NUMBER
+G - Educación,P3339S7,6. Interacción personal,NUMBER
+G - Educación,P3339S6,7. Otro,NUMBER
+G - Educación,P3341,17. Durante este AÑO ESCOLAR el hogar pagó: ¿Matriculas para ...?,NUMBER
+G - Educación,P3341S1,17a. Valor,NUMBER
+G - Educación,P3342,18. Durante este AÑO ESCOLAR el hogar pagó: ¿Uniformes para ...?,NUMBER
+G - Educación,P3342S1,18a. Valor,NUMBER
+G - Educación,P3343,"19. Durante este AÑO ESCOLAR el hogar pagó: ¿Lista de útiles escolares, compra o alquiler de textos para ...?",NUMBER
+G - Educación,P3343S1,19a. Valor,NUMBER
+G - Educación,P3344,20. El hogar paga por: ¿Pensión para ...?,NUMBER
+G - Educación,P3344S1,20a. Valor Mensual,NUMBER
+G - Educación,P3345,21. El hogar paga por: ¿Transporte escolar para ...?,NUMBER
+G - Educación,P3345S1,21a. Valor Mensual,NUMBER
+G - Educación,P3346,22. El hogar paga por: ¿Alimentación en el establecimiento educativo para ...?,NUMBER
+G - Educación,P3346S1,22a. Valor Mensual,NUMBER
+G - Educación,P3347,"23. EL MES PASADO, ¿el hogar gastó en útiles (papel, lápices, cuadernos etc..) material escolar o fotocopias para ...?",NUMBER
+G - Educación,P3347S1,23a. Valor Mensual,NUMBER
+G - Educación,P3348,"24. EL MES PASADO, el hogar realizó otros pagos como: bingos, salidas pedagógicas, etc. en el establecimiento educativo para ...?",NUMBER
+G - Educación,P3348S1,24a. Valor Mensual,NUMBER
+G - Educación,P8610,"25. Durante este AÑO ESCOLAR, ¿... recibió beca en dinero o en especie para estudiar?",NUMBER
+G - Educación,P8610S1,Valor $,NUMBER
+G - Educación,P8610S2,Frecuencia,NUMBER
+G - Educación,P6229,26. ¿De quién recibió la beca para estudiar?,NUMBER
+G - Educación,P8612,"27. Durante este AÑO ESCOLAR, ¿ ... recibió subsidio en dinero o en especie para estudiar?",NUMBER
+G - Educación,P8612S1,Valor ($),NUMBER
+G - Educación,P8612S2,Frecuencia,NUMBER
+G - Educación,P6238,28. ¿De quién recibió el subsidio para estudiar?,NUMBER
+G - Educación,P8614,"29. Durante este AÑO ESCOLAR ,¿... ha recibido crédito educativo?",NUMBER
+G - Educación,P8614S1,Valor ($),NUMBER
+G - Educación,P8614S2,Frecuencia,NUMBER
+G - Educación,P6202,30. ¿Quién le concedió el crédito educativo?,NUMBER
+G - Educación,P781,31. ¿Con quién permanece ... después de asistir al establecimiento educativo o durante la mayor parte del tiempo entre semana?,NUMBER
+G - Educación,P781S1,No. de orden,VARCHAR2
+G - Educación,P781S2,Sexo:,NUMBER
+G - Educación,P782,32. ¿Cuántos años tiene esta persona?,NUMBER
+G - Educación,P783,33. ¿Cuál es el nivel educativo de esta persona?,NUMBER
+G - Educación,P3004,34. Cuáles de las siguientes actividades realiza _____ fuera de la jornada escolar:,NUMBER
+G - Educación,P3004S1,"1. Participa en cursos, talleres o grupos artísticos (música, teatro, danza, pintura, etc.)",NUMBER
+G - Educación,P3004S2,"2. Participa en cursos, talleres o gruposde ciencia y tecnología (computación, botánica, robótica, etc.)",NUMBER
+G - Educación,P3004S3,"3. Asiste a cursos, prácticas o escuelas deportivas (futbol, gimnasia, natación, tenis, atletismo, etc.)",NUMBER
+G - Educación,P3004S4,4. Participa en grupos de estudio,NUMBER
+G - Educación,P3004S5,5.Sale al parque,NUMBER
+G - Educación,P3004S6,6.Lee libros,NUMBER
+G - Educación,P3004S7,7.Juega,NUMBER
+G - Educación,P3004S8,8.Ninguna de las anteriores,NUMBER
+I - Tecnologías de Información y Comunicación,DIRECTORIO,DIRECTORIO,NUMBER
+I - Tecnologías de Información y Comunicación,SECUENCIA_ENCUESTA,Número de persona dentro del hogar,NUMBER
+I - Tecnologías de Información y Comunicación,SECUENCIA_P,Número de hogar dentro de la vivienda,NUMBER
+I - Tecnologías de Información y Comunicación,ORDEN,Número de persona dentro del hogar,NUMBER
+I - Tecnologías de Información y Comunicación,FEX_C,Factor de expansión,NUMBER
+I - Tecnologías de Información y Comunicación,P1910,1A. ¿Con qué frecuencia utiliza ... computador de escritorio (en cualquier lugar)?,NUMBER
+I - Tecnologías de Información y Comunicación,P1911,1B. ¿Con qué frecuencia utiliza ... computador portátil (en cualquier lugar)?,NUMBER
+I - Tecnologías de Información y Comunicación,P1912,1C. ¿Con qué frecuencia utiliza ... tableta (en cualquier lugar)?,NUMBER
+I - Tecnologías de Información y Comunicación,P1084,2. ¿Con qué frecuencia utiliza _____ internet (en cualquier lugar y desde cualquier dispositivo)?,NUMBER
+I - Tecnologías de Información y Comunicación,P1710,"3. ¿Cuáles de las siguientes actividades sabe hacer ______ en el computador de escritorio, portátil, tableta o cuando utiliza internet:",NUMBER
+I - Tecnologías de Información y Comunicación,P1710S1,"1.Usar procesadores de texto (Word, Google Docs, etc.)?",NUMBER
+I - Tecnologías de Información y Comunicación,P1710S2,"2.Usar las funciones de copiar y pegar para duplicar o mover información entre documentos, dispositivos o en el almacenamiento utilizado través de internet?",NUMBER
+I - Tecnologías de Información y Comunicación,P1710S3,"3. Enviar correos electrónicos con archivos adjuntos (documentos, fotos, videos, etc.)?",NUMBER
+I - Tecnologías de Información y Comunicación,P1710S4,"4. Conectar o instalar dispositivos adicionales (ej. impresora, módem, cámara, etc.)?",NUMBER
+I - Tecnologías de Información y Comunicación,P1710S5,"5. Usar fórmulas matemáticas básicas en una hoja de cálculo (Excel, Open Office Calc, etc)?",NUMBER
+I - Tecnologías de Información y Comunicación,P1710S6,"6. Crear presentaciones mediante un programa especializado para ello (Power Point,Prezi, otros)?",NUMBER
+I - Tecnologías de Información y Comunicación,P1710S7,"7. Transferir archivos entre dispositivos o por internet (computador, USB, celular, etc.)?",NUMBER
+I - Tecnologías de Información y Comunicación,P1710S8,"8. Buscar, descargar, instalar o configurar programas computacionales (software) o aplicaciones?",NUMBER
+I - Tecnologías de Información y Comunicación,P1710S9,9. Utilizar un lenguaje de programación especializado?,NUMBER
+I - Tecnologías de Información y Comunicación,P1710S10,"10. Implementar medidas de seguridad efectivas para proteger dispositivos y cuentas de internet (contraseñas fuertes, notificación de intento de conexión, etc.)?",NUMBER
+I - Tecnologías de Información y Comunicación,P1710S11,"11. Limitar la difusión de datos o información personal en dispositivos, cuentas o aplicaciones de internet (nombre, información de contacto, fotografías, etc.)?",NUMBER
+I - Tecnologías de Información y Comunicación,P1710S12,12. Comprobar que las noticias o información que consulta o recibe a través de internet son ciertas o verdaderas?,NUMBER
+I - Tecnologías de Información y Comunicación,P765,4. Cuáles de los siguientes dispositivos utiliza ... para acceder a Internet:,NUMBER
+I - Tecnologías de Información y Comunicación,P765S1,1. Computador de escritorio?,NUMBER
+I - Tecnologías de Información y Comunicación,P765S2,2. Computador portátil?,NUMBER
+I - Tecnologías de Información y Comunicación,P765S3,3. Tableta?,NUMBER
+I - Tecnologías de Información y Comunicación,P765S4,4. Teléfono celular?,NUMBER
+I - Tecnologías de Información y Comunicación,P765S5,"5. Consolas para juegos electrónicos (Play Station, X-box, Wii, PSP, Nintendo, Gameboy, etc.)?",NUMBER
+I - Tecnologías de Información y Comunicación,P765S6,6. Televisor inteligente?,NUMBER
+I - Tecnologías de Información y Comunicación,P765S7,"7. Reproductores digitales de música video e imagen (MP3, MP4, Ipod)?",NUMBER
+I - Tecnologías de Información y Comunicación,P765S8,8. Otro,NUMBER
+I - Tecnologías de Información y Comunicación,P1085,5. ¿En cuáles de los siguientes sitios accede ... a Internet:,NUMBER
+I - Tecnologías de Información y Comunicación,P1085S1,1. En el hogar?,NUMBER
+I - Tecnologías de Información y Comunicación,P1085S2,2. En el trabajo?,NUMBER
+I - Tecnologías de Información y Comunicación,P1085S3,3. En la institución educativa?,NUMBER
+I - Tecnologías de Información y Comunicación,P1085S4,4. En centros de acceso público gratis?,NUMBER
+I - Tecnologías de Información y Comunicación,P1085S5,5. En centros de acceso público con costo (Café Internet)?,NUMBER
+I - Tecnologías de Información y Comunicación,P1085S6,"6. En la vivienda de otra persona (pariente, amigo/a, vecino/a)?",NUMBER
+I - Tecnologías de Información y Comunicación,P1085S7,7. En desplazamiento de un sitio a otro?,NUMBER
+I - Tecnologías de Información y Comunicación,P1085S8,8. Otro sitio?,NUMBER
+I - Tecnologías de Información y Comunicación,P1083,6. ¿Para cuáles de los siguientes servicios o actividades utiliza ... Internet:,NUMBER
+I - Tecnologías de Información y Comunicación,P1083S1,1. Obtener información? (Excluir la búsqueda de información con fines de educación y aprendizaje),NUMBER
+I - Tecnologías de Información y Comunicación,P1083S2,2. Enviar o recibir correos electronicos?,NUMBER
+I - Tecnologías de Información y Comunicación,P1083S3,3. Redes sociales?,NUMBER
+I - Tecnologías de Información y Comunicación,P1083S4,4. Comprar/ordenar productos o servicios?,NUMBER
+I - Tecnologías de Información y Comunicación,P1083S5,5. Banca electrónica y otros servicios financieros?,NUMBER
+I - Tecnologías de Información y Comunicación,P1083S6,6. Educación y aprendizaje?,NUMBER
+I - Tecnologías de Información y Comunicación,P1083S7,"7. Trámites con entidades del gobierno (nacional, departamental o municipal)?",NUMBER
+I - Tecnologías de Información y Comunicación,P1083S8,"8. Descargar software, imágenes, juegos, música o jugar en línea",NUMBER
+I - Tecnologías de Información y Comunicación,P1083S9,"9. Consulta de medios de comunicación (televisión, radio, periódicos, revistas, medios digitales, etc)?",NUMBER
+I - Tecnologías de Información y Comunicación,P1083S10,"10. Ver televisión, videos, películas u otro contenido audiovisual para entretenimiento",NUMBER
+I - Tecnologías de Información y Comunicación,P1083S12,"11. Buscar trabajo (inscribirse en una plataforma, aplicación o convocatoria de empleo)?",NUMBER
+I - Tecnologías de Información y Comunicación,P1083S13,"12. Servicios en la nube (guardar información, editar archivos, etc.)?",NUMBER
+I - Tecnologías de Información y Comunicación,P1083S14,13. Vender productos o servicios?,NUMBER
+I - Tecnologías de Información y Comunicación,P1083S15,14. Trabajar como requisito dentro de su empleo o actividad económica de independiente?,NUMBER
+I - Tecnologías de Información y Comunicación,P1083S16,15. Realizar llamadas o video llamadas (telefonía por Internet)?,NUMBER
+I - Tecnologías de Información y Comunicación,P1083S17,16. Publicar o intercambiar opiniones sobre las características y calidad de un bien o servicio?,NUMBER
+I - Tecnologías de Información y Comunicación,P1083S18,"17. Subir contenido propio a un sitio web para ser compartido (texto, imágenes, videos, música, audios, fotos, software, etc.)?",NUMBER
+I - Tecnologías de Información y Comunicación,P1083S19,"18. Consulta de información con fines educativos (tareas, trabajos, investigaciones, enciclopedias en línea)?",NUMBER
+I - Tecnologías de Información y Comunicación,P1083S20,"19. Gestiones médicas (pedir citas, recibir atención, otros trámites)",NUMBER
+I - Tecnologías de Información y Comunicación,P1083S21,"20. Usar herramientas de Inteligencia Artificial (chatbot, diseño, escritura, video)",NUMBER
+I - Tecnologías de Información y Comunicación,P1083S11,21. Otro,NUMBER
+I - Tecnologías de Información y Comunicación,P1929,7. ¿Cuál es la principal razón por la que __________ no utiliza internet?:,NUMBER
+I - Tecnologías de Información y Comunicación,P1082,8. ¿... tiene teléfono celular?,NUMBER
+I - Tecnologías de Información y Comunicación,P1082S1,1. Teléfono celular convencional,NUMBER
+I - Tecnologías de Información y Comunicación,P1082S2,2. Teléfono celular inteligente (smartphone),NUMBER
+I - Tecnologías de Información y Comunicación,P803,9. EL MES PASADO ¿_____ realizó pagos por el servicio de telefonía celular (pospago o prepago)?,NUMBER
+I - Tecnologías de Información y Comunicación,P803S1,Valor pagado,NUMBER
+I - Tecnologías de Información y Comunicación,P5504,"10. A pesar de no tener teléfono celular, ….. utiliza teléfono celular?",NUMBER
+I - Tecnologías de Información y Comunicación,P5504S1,Teléfono celular convencional,NUMBER
+I - Tecnologías de Información y Comunicación,P5504S2,Teléfono celular inteligente (smartphone),NUMBER
+I - Tecnologías de Información y Comunicación,P5505,11. ¿Por qué medio(s)…. utiliza el teléfono celular?:,NUMBER
+I - Tecnologías de Información y Comunicación,P5505S1,1. Un vendedor de minutos,NUMBER
+I - Tecnologías de Información y Comunicación,P5505S2,2. Prestado ocasionalmente por otra persona,NUMBER
+I - Tecnologías de Información y Comunicación,P769,12. ¿Con que frecuencia utiliza ... teléfono celular?,NUMBER
+I - Tecnologías de Información y Comunicación,P1080,13. Para cuál de las siguientes actividades utiliza … el teléfono celular:,NUMBER
+I - Tecnologías de Información y Comunicación,P1080S1,1. Llamadas personales o familiares?,NUMBER
+I - Tecnologías de Información y Comunicación,P1080S2,2. Llamadas laborales ?,NUMBER
+I - Tecnologías de Información y Comunicación,P1080S3,"3. Mensajes de texto (SMS, mensajería instantánea, chat, etc.)?",NUMBER
+I - Tecnologías de Información y Comunicación,P1080S4,4. Navegación en Internet?,NUMBER
+I - Tecnologías de Información y Comunicación,P1080S5,5. Venta de minutos?,NUMBER
+I - Tecnologías de Información y Comunicación,P1080S6,6. Otras actividades?,NUMBER
+I - Tecnologías de Información y Comunicación,P804,14.¿Con que frecuencia escucha ... la señal de radio dentro del hogar?,NUMBER
+I - Tecnologías de Información y Comunicación,P805,15. Para cuáles de los siguientes servicios o actividades escucha ... la señal de radio:,NUMBER
+I - Tecnologías de Información y Comunicación,P805S1,"1. Entretenimiento (música, deportes, variedades, humor)",NUMBER
+I - Tecnologías de Información y Comunicación,P805S2,2. Noticias,NUMBER
+I - Tecnologías de Información y Comunicación,P805S3,3. Información de interés comunitario,NUMBER
+I - Tecnologías de Información y Comunicación,P805S4,4. Educación y aprendizaje,NUMBER
+I - Tecnologías de Información y Comunicación,P805S5,5. Otra,NUMBER
